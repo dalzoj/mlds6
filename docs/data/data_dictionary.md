@@ -12,8 +12,8 @@ Descripción de los datos
 
 | Personaje | Cantidad de Imágenes | Muestra |
 | --- | --- | --- |
-| Pikachu | 226 | ![Pikachu](/img/pikachu.png) |
-| Squirtle | 239 | ![Squirtle](/img/squirtle.png) |
-| Mewtwo | 209 | ![Mewtwo](/img/mewtwo.png) |
-| Charmander | 224 | ![Charmander](/img/gharmander.png) |
-| Bulbasaur | 224 | ![Bulbasaur](/img/bulbasaur.png) |
+| Pikachu | 226 | ![Pikachu](/docs/data/img/pikachu.png) |
+| Squirtle | 239 | ![Squirtle](/docs/data/img/squirtle.png) |
+| Mewtwo | 209 | ![Mewtwo](/docs/data/img/mewtwo.png) |
+| Charmander | 224 | ![Charmander](/docs/data/img/gharmander.png) |
+| Bulbasaur | 224 | ![Bulbasaur](/docs/data/img/bulbasaur.png) |
