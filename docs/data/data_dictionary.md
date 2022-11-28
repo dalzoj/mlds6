@@ -15,5 +15,5 @@ Descripción de los datos
 | Pikachu | 226 | ![Pikachu](/docs/data/img/pikachu.png) |
 | Squirtle | 239 | ![Squirtle](/docs/data/img/squirtle.png) |
 | Mewtwo | 209 | ![Mewtwo](/docs/data/img/mewtwo.png) |
-| Charmander | 224 | ![Charmander](/docs/data/img/gharmander.png) |
+| Charmander | 224 | ![Charmander](/docs/data/img/charmander.png) |
 | Bulbasaur | 224 | ![Bulbasaur](/docs/data/img/bulbasaur.png) |
