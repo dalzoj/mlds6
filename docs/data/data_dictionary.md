@@ -1,31 +1,19 @@
-# Data Dictionary
+# Diccionario de Datos
 
-In this document you must describe the tables, collections or files that you are using in the project. You can describe each database and provide UML diagrams for a better design description.
+Este documento hace referencia a la base de datos de las imágenes correspondientes al desarrollo de este modelo.
 
-# Database Name 1
+# Base de Datos Personajes Pókemon Go
 
-Description of the database.
+Esta base de datos contiene una muestra de 5 de los principales personajes del anime y del video juego Pokemón. Para un total de 1168 imágenes en un tamaño de 244 x 244 píxeles
 
-![UML Diagram](/file/uml/database1)
+## Tabla
 
-## Table 1
+Descripción de los datos
 
-Here you must describe the table
-
-| column | type | description |
+| Personaje | Cantidad de Imágenes | Muestra |
 | --- | --- | --- |
-| col1 | INT | Example column |
-
-# Database Name 2
-
-Description of the database.
-
-![UML Diagram](/file/uml/database1)
-
-## Table 2
-
-Here you must describe the table
-
-| column | type | description |
-| --- | --- | --- |
-| col1 | INT | Example column |
+| Pikachu | 226 | ![Pikachu](/img/pikachu.png) |
+| Squirtle | 239 | ![Squirtle](/img/squirtle.png) |
+| Mewtwo | 209 | ![Mewtwo](/img/mewtwo.png) |
+| Charmander | 224 | ![Charmander](/img/gharmander.png) |
+| Bulbasaur | 224 | ![Bulbasaur](/img/bulbasaur.png) |
